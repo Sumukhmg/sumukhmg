@@ -7,19 +7,20 @@
 🔨 Tools </br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-<!---
+
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/sumukh-mg/"><img align="left" src="https://raw.githubusercontent.com/sumukhmg/sumukhmg/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/i"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+![twitter]( http://i.imgur.com/tXSoThF.png (twitter icon with padding)) <a href=”www.twitter.com/sumukhmg”> sumukh mg </a> 
 
-</br>---->
+</br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 📈 GitHub Stats 
 
 [![Sumukh's github stats](https://github-readme-stats.vercel.app/api?username=sumukhmg)](https://github.com/sumukhmg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumukhmg&layout=compact)](https://github.com/sumukhmg)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumukhmg)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumukhmg&layout=compact)](https://github.com/sumukhmg) </br>
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=sumukhmg.sumukhmg)](https://sumukhmg/)
