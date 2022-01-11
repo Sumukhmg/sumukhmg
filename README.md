@@ -10,8 +10,8 @@
 
 ### 🤝 Connect with me:
 
-![twitter]( http://i.imgur.com/tXSoThF.png (twitter icon with padding)) <a href=”www.twitter.com/sumukhmg”> sumukh mg </a> 
-
+<a href="https://www.linkedin.com/in/sumukh-mg"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+<a href="https://twitter.com/sumukhmg">![alt text](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
