@@ -1,4 +1,12 @@
-![Black and Blue Professional Graphic Designer Profile LinkedIn Banner](https://user-images.githubusercontent.com/83581264/148693140-8eb96770-a635-4e5a-9d54-37d973642e50.png)
+<!--<h2> hi folks![download](https://user-images.githubusercontent.com/83581264/162128305-b6db45cb-346f-4a5f-a4bc-892024528fe8.jpg)</h2>-->
+ 
+![garfield-waving](https://user-images.githubusercontent.com/83581264/162128099-6e7fe4cd-888b-45a8-8030-f514b30ec800.gif)
+
+
+
+
+<!---
+![Black and Blue Professional Graphic Designer Profile LinkedIn Banner](https://user-images.githubusercontent.com/83581264/148693140-8eb96770-a635-4e5a-9d54-37d973642e50.png)--->
  💻 Technical Skills <br> 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -21,6 +29,7 @@
 [![Sumukh's github stats](https://github-readme-stats.vercel.app/api?username=sumukhmg)](https://github.com/sumukhmg)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumukhmg)](https://git.io/streak-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumukhmg&layout=compact)](https://github.com/sumukhmg) </br>
 
