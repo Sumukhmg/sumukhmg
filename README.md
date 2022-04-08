@@ -1,5 +1,6 @@
-<!--<h2> hi folks![download](https://user-images.githubusercontent.com/83581264/162128305-b6db45cb-346f-4a5f-a4bc-892024528fe8.jpg)</h2>-->
+<h2> hi folks!</h2>
  
+
 ![garfield-waving](https://user-images.githubusercontent.com/83581264/162128099-6e7fe4cd-888b-45a8-8030-f514b30ec800.gif)
 
 
