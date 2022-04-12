@@ -22,8 +22,9 @@
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/sumukh-mg"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
-<a href="https://twitter.com/sumukhmg">![alt text](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a>
+<a href="https://www.linkedin.com/in/sumukh-mg"> ![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<a href="https://twitter.com/sumukhmg">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+<a href="sumukhmg45@gmail.com">![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
