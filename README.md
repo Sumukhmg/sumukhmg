@@ -5,8 +5,7 @@
 
 
 
-<!---
-![Black and Blue Professional Graphic Designer Profile LinkedIn Banner](https://user-images.githubusercontent.com/83581264/148693140-8eb96770-a635-4e5a-9d54-37d973642e50.png)--->
+
  💻 Technical Skills <br> 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
