@@ -1,4 +1,7 @@
-<h2> hi folks!</h2>
+<h2 align="center">
+  Hey folks!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
  
 
 ![ShockedBronzeAssassinbug-max-1mb](https://user-images.githubusercontent.com/83581264/162783762-c553bc06-f98f-4d91-9a8d-d4ed9ccce4ab.gif)
@@ -21,10 +24,14 @@
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/sumukh-mg"> ![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
-<a href="https://twitter.com/sumukhmg">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
-<a href="sumukhmg45@gmail.com">![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
-</br>
+<p align="center">
+  <a href="https://twitter.com/sumukhmg">
+  <img align="center" src="https://img.shields.io/twitter/follow/sumukhmg?label=Twitter&logo=twitter&style=for-the-badge" />  
+</a>
+  <a href="https://www.linkedin.com/in/sumukh-mg/">
+  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+ </a>
+ </p>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 📈 GitHub Stats 
