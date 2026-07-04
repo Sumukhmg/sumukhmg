@@ -77,13 +77,17 @@ class SumukhMG:
 
 ## 🚀 Featured Projects
 
+_Auto-curated: public, non-fork repos with a commit in the last 6 months._
+
 | Project | What it does | Stack |
 |---------|--------------|-------|
+| 📄 **[resume-optimizer-claude-skill](https://github.com/Sumukhmg/resume-optimizer-claude-skill)** | A Claude Skill that tailors resumes against a target job description | `Python` |
+| 💊 **[drug-discovery](https://github.com/Sumukhmg/drug-discovery)** | Exploring AI-assisted drug-discovery workflows | — |
+| 🏗️ **[System-Design-hld-lld-](https://github.com/Sumukhmg/System-Design-hld-lld-)** | HLD/LLD system design notes & case studies | — |
+| 🔌 **[Mcp](https://github.com/Sumukhmg/Mcp)** | Experiments building Model Context Protocol servers | `TypeScript` |
 | 🧮 **[DSOFLP Implementation](https://github.com/Sumukhmg/DSOFLP_Implementation)** | Solver for a Springer-published facility-location problem — Branch & Cut / Price / CP | `Python` |
-| 🧠 **[c-memory-allocator](https://github.com/Sumukhmg/c-memory-allocator)** | A custom `malloc`/`free` implementation built from scratch | `C` |
 | ⏱️ **[task-scheduler](https://github.com/Sumukhmg/task-scheduler)** | A scheduler exploring OS-level process management | `C` |
-| 🍌 **[nano-banana-hackathon](https://github.com/Sumukhmg/nano-banana-hackathon)** | Hackathon build ⭐ — AI-powered app | `TypeScript` |
-| ✈️ **[dijkstra-algo-flights](https://github.com/Sumukhmg/dijkstra-algo-flights)** | Shortest-path flight routing visualizer | `TypeScript` |
+| 🧠 **[c-memory-allocator](https://github.com/Sumukhmg/c-memory-allocator)** | A custom `malloc`/`free` implementation built from scratch | `C` |
 | 📊 **[PowerBI Weather Dashboard](https://github.com/Sumukhmg/PowerBI_Weather_Dashboard)** | Interactive weather-forecast analytics dashboard | `Power BI` |
 
 > 💡 Plus **80+ repositories** spanning systems, web, AI and competitive programming — [browse them all »](https://github.com/Sumukhmg?tab=repositories)
