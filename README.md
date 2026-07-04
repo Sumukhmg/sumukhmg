@@ -7,13 +7,12 @@
 
 <!-- Typing animation -->
 <a href="https://github.com/Sumukhmg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Master's+in+CS+%40+NITK+Surathkal;Low-level+Systems+%26+Compiler+nerd;I+ship+products%2C+not+just+code;Open+to+SWE+%26+Research+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Master's+in+CS+%40+NITK+Surathkal;Low-level+Systems+%26+Compiler+nerd;I+ship+products%2C+not+just+code;Open+to+SWE+%26+Product+Management+roles" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Quick links -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-ratemylove.site-2C5364?style=for-the-badge&logo=vercel&logoColor=white)](https://ratemylove.site)
 [![Twitter](https://img.shields.io/badge/X-@Sumukhmg-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Sumukhmg)
 [![Email](https://img.shields.io/badge/Hire%20me-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumukhmg45@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=Sumukhmg&label=Profile%20Views&color=2C5364&style=for-the-badge)
@@ -34,7 +33,7 @@ class SumukhMG:
         self.currently   = "Reading Springer papers and turning them into running code"
 
     def open_to_work(self):
-        return True  # SWE & Research roles → let's talk 🤝
+        return True  # SWE & Product Management roles → let's talk 🤝
 ```
 
 - 🔬 I turn **research papers into working systems** — e.g. an extended implementation of the **DSOFLP** facility-location problem ([Springer, 2025](https://link.springer.com/chapter/10.1007/978-3-031-90606-0_20)) comparing *Branch-and-Cut*, *Branch-and-Price* and *Constraint Programming*.
@@ -117,7 +116,7 @@ _Auto-curated: public, non-fork repos with a commit in the last 6 months._
 
 ### 💬 Let's build something great together
 
-I'm **open to Software Engineering & Research opportunities**. If you're looking for someone who understands systems from the kernel up *and* can ship a product to users, let's talk.
+I'm **open to Software Engineering & Product Management opportunities**. If you're looking for someone who understands systems from the kernel up *and* can ship a product to users, let's talk.
 
 [![Email](https://img.shields.io/badge/Say%20Hello-sumukhmg45@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumukhmg45@gmail.com)
 [![Twitter](https://img.shields.io/badge/Follow-@Sumukhmg-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Sumukhmg)
